@@ -1,16 +1,17 @@
-## Hi there 👋
+## Bem vindo ao meu perfil ⭐
 
-<!--
-**sophixs6/sophixs6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Sophia Almeida
 
-Here are some ideas to get you started:
+- Eu estou estudando na [Alura](https://www.alura.com.br)
+- Aqui compartilharei meus projetos
+- Estou aprendendo a utilizar o JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Para entrar em contato comigo 📧
+
+  00001124537557sp@al.educacao.sp.gov.br
+  
+  ou
+  
+   ### sophi._ pereira._ (instagram)
+  
+ ![](https://media1.tenor.com/m/oBv474JY7cYAAAAC/tvdu-nina-dobrev-fashion.gif)
